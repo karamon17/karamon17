@@ -2,8 +2,6 @@
 ## Software Engineer &nbsp;&nbsp;
 <a href="https://t.me/karamon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img align="right" width="50%"  src="https://badge42.vercel.app/api/v2/clkwfckql001108mjo8kfx8vh/stats?cursusId=21&coalitionId=undefined" alt="gkhaishb's 42 stats" /></a>
-
 <div>
   <br>
   Hello! My name is Gevorg, and I am a novice programmer with a great passion for technology and
