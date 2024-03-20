@@ -16,5 +16,5 @@ contribution to any company where I can continue to grow and develop as a progra
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karamon17&theme=highcontrast&show_icons=true&count_private=true)
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamon17&theme=highcontrast&size_weight=0.1&count_weight=0&hide=Makefile,TeX,Perl,Roff,Shell,PowerShell,M4,Batchfile,Assembly&langs_count=20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamon17&theme=highcontrast&size_weight=0.1&count_weight=0&hide=Makefile,TeX,Perl,Roff,Shell,PowerShell,M4,Batchfile,Assembly,Python&langs_count=20&layout=compact)
 
